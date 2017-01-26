@@ -1,3 +1,41 @@
-body {
-	background-color: black;
-}
+  body{
+	
+	font-family: 'Source Sans Pro', 
+	sans-serif; 
+	color: black;
+	background-image: url("homepage.jpg");
+	background-repeat: no-repeat;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+
+
+  .exercises{ 
+
+	    width: 240px;
+    	margin-left: 0px;
+    	border: 3px solid red;
+    	position: relative;
+		left: 100px;
+		text-align: center;
+		top: 300px;
+		}
+
+  .presentation{ 
+    border: 3px solid #d3e22d;
+    width: 370px;
+    position: relative;
+    left: 464px;
+    text-align: center;
+    top: 42px;
+  	}
+
+  	 .projects{ 
+  		border: 3px solid blue;
+  		width: 240px;
+  		position: relative;
+  		left: 257px;
+  		text-align:center; 
+  	}
