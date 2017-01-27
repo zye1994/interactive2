@@ -14,11 +14,12 @@
 
 	    width: 240px;
     	margin-left: 0px;
-    	border: 3px solid #d3e22d;
+    	border: 3px solid red;
     	position: relative;
 		left: 100px;
 		text-align: center;
 		top: 300px;
+    font-color:;
 		}
 
   .presentation{ 
