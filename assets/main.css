@@ -14,7 +14,7 @@
 
 	    width: 240px;
     	margin-left: 0px;
-    	border: 3px solid red;
+    	border: 3px solid #d3e22d;
     	position: relative;
 		left: 100px;
 		text-align: center;
@@ -39,10 +39,10 @@
   	}
 
   .noname{ 
-    border: 3px solid #d3e22d;
-    width: 370px;
+    border: 3px solid red;
+    width: 270px;
     position: relative;
-    left: 500px;
+    left: 210px;
     text-align: center;
-    top: 55px;
+    top: 185px;
   	}
