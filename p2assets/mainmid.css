@@ -1,0 +1,4072 @@
+  body{
+	font-family: 'Source Sans Pro', 
+	sans-serif; 
+	color: black;
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: auto;
+    margin: 40px;
+	}
+
+
+/* letter A */
+
+    .a:hover .aframe{
+    display:block ;
+    }
+    
+    .a{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 30px;
+    left:9px;
+    }
+
+    .ain{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left:0px;
+    }
+
+    .aframe{
+    display:none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .a2 {
+    width: 115px;
+    height: 3px;
+    background: green;
+    transform: rotate(74deg);
+    left: -17px;
+    top: 49px;
+    position: absolute;
+	}
+
+	.a1 {
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(285deg);
+    left: -49px;
+    top: 49px;
+    position: absolute;
+}
+
+    .appear{
+    display: block;
+    }
+
+	.ain1 {
+    width: 38px;
+    height: 1px;
+    background: green;
+    transform: rotate(360deg);
+    left: 6px;
+    top: 65px;
+    position: absolute;
+	}
+
+	.ain2 {
+    width: 66px;
+    height: 1px;
+    background: green;
+    transform: rotate(399deg);
+    left: -3px;
+    top: 84.4px;
+    position: absolute;
+	}
+
+	.ain3 {
+ 	width: 63px;
+    height: 1px;
+    background: green;
+    transform: rotate(140deg);
+    left: -12px;
+    top: 86px;
+    position: absolute;
+	}
+
+    .ain4 {
+    width: 62px;
+    height: 1px;
+    background: green;
+    transform: rotate(360deg);
+    left: -4px;
+    top: 105px;
+    position: absolute;
+    }
+
+/* letter B */
+
+    .b:hover .bframe{
+    display:block ;
+    }
+
+    
+    .b{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 103px;
+    }
+
+    .bin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: -3px;
+    }
+
+    .bframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: -3px;
+    }
+
+
+	.b1 {
+ 	width: 115px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -48px;
+    top: 57px;
+    position: absolute;
+	}
+
+	.b2 {
+	width: 45px;
+    height: 3px;
+    background: green;
+    top: 115px;
+    left: 8px;
+    position: absolute;
+	}
+
+	.b3 {
+	width: 31.3px;
+    height: 3px;
+    background: green;
+    top: 105.5px;
+    left: 47.9px;
+    position: absolute;
+    transform: rotate(142deg);
+	}
+
+	.b4 {
+	width: 46px;
+    height: 3px;
+    background: green;
+    left: 9px;
+    top: 1px;
+    position: absolute;
+	}
+
+	.b5 {
+    width: 27px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 62px;
+    top: 84px;
+    position: absolute;
+	}
+
+	.b6 {
+	width: 33px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 55px;
+    top: 28px;
+    position: absolute;
+	}
+
+	.b7 {
+	width: 23px;
+    height: 3px;
+    background: green;
+    top: 7px;
+    left: 52.1px;
+    position: absolute;
+    transform: rotate(37deg);
+	}
+
+	.b8 {
+	width: 19px;
+    height: 3px;
+    background: green;
+    top: 64px;
+    left: 60.8px;
+    position: absolute;
+    transform: rotate(57deg);
+    }
+
+	.b9 {
+	width: 15px;
+    height: 3px;
+    background: green;
+    top: 51px;
+    left: 61px;
+    position: absolute;
+    transform: rotate(116deg);
+	}
+
+    .b10 {
+    width: 31.3px;
+    height: 3px;
+    background: green;
+    top: 105.5px;
+    left: 48.4px;
+    position: absolute;
+    transform: rotate(141deg);
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .bin1 {
+    width: 121px;
+    height: 1px;
+    background: green;
+    top: 60px;
+    left: -28px;
+    position: absolute;
+    transform: rotate(111deg);
+    }
+
+    .bin2 {
+    width: 121px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -29px;
+    position: absolute;
+    transform: rotate(70deg);
+    }
+
+    .bin4 {
+    width: 93px;
+    height: 1px;
+    background: green;
+    top: 79px;
+    left: -5px;
+    position: absolute;
+    transform: rotate(130deg);
+    }
+
+    .bin5 {
+    width: 83px;
+    height: 1px;
+    background: green;
+    top: 86px;
+    left: -3px;
+    position: absolute;
+    transform: rotate(133deg);
+    }
+
+    .bin6 {
+    width: 79px;
+    height: 1px;
+    background: green;
+    top: 94px;
+    left: 3px;
+    position: absolute;
+    transform: rotate(146deg);
+    }
+
+    .bin7 {
+    width: 68px;
+    height: 1px;
+    background: green;
+    top: 106px;
+    left: 9px;
+    position: absolute;
+    transform: rotate(164deg);
+    }
+
+    .bin8 {
+    width: 117px;
+    height: 1px;
+    background: green;
+    top: 66px;
+    left: -19px;
+    position: absolute;
+    transform: rotate(121deg);
+    }
+
+    .bin9 {
+    width: 80px;
+    height: 1px;
+    background: green;
+    top: 32px;
+    left: -1px;
+    position: absolute;
+    transform: rotate(46deg);
+    }
+
+    .bin10 {
+    width: 75px;
+    height: 1px;
+    background: green;
+    top: 23px;
+    left: 2px;
+    position: absolute;
+    transform: rotate(35deg);
+    }
+
+    .bin11 {
+    width: 75px;
+    height: 1px;
+    background: green;
+    top: 23px;
+    left: 2px;
+    position: absolute;
+    transform: rotate(35deg);
+    }
+
+    .bin12 {
+    width: 113px;
+    height: 1px;
+    background: green;
+    top: 60px;
+    left: -3px;
+    position: absolute;
+    transform: rotate(92deg);
+    }
+
+    .bin13 {
+    width: 45px;
+    height: 1px;
+    background: green;
+    top: 23px;
+    left: 40px;
+    position: absolute;
+    transform: rotate(69deg);
+    }
+
+    .bin14 {
+    width: 55px;
+    height: 1px;
+    background: green;
+    top: 30px;
+    left: 32px;
+    position: absolute;
+    transform: rotate(79deg);
+    }
+
+    .bin15 {
+    width: 64px;
+    height: 1px;
+    background: green;
+    top: 9px;
+    left: 9px;
+    position: absolute;
+    transform: rotate(190deg);
+    }
+
+    .bin16 {
+    width: 104px;
+    height: 1px;
+    background: green;
+    top: 63px;
+    left: 9.4px;
+    position: absolute;
+    transform: rotate(100deg);
+    }
+
+    .bin17 {
+    width: 42px;
+    height: 1px;
+    background: green;
+    top: 78px;
+    left: 48.4px;
+    position: absolute;
+    transform: rotate(76deg);
+    }
+
+    .bin18 {
+    width: 115px;
+    height: 1px;
+    background: green;
+    top: 50px;
+    left: -15.6px;
+    position: absolute;
+    transform: rotate(56deg);
+    }
+
+    .bin19 {
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 94px;
+    left: 38px;
+    position: absolute;
+    transform: rotate(119deg);
+    }
+
+ /* letter C */
+
+    .c:hover .cframe{
+    display:block ;
+    }
+
+    .c{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 218px;
+    }
+
+    .cframe{
+    display:none; 
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .cin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+	.c1 {
+	width: 43px;
+    height: 3px;
+    background: green;
+    left: 27px;
+    top: 0px;
+    position: absolute;
+	}
+
+	.c2 {
+	width: 53px;
+    height: 3px;
+    transform: rotate(116deg);
+    background: green;
+    left: -10px;
+    top: 25px;
+    position: absolute;
+	}
+
+	.c3 {
+	width: 21px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -5px;
+    top: 57px;
+    position: absolute;
+	}
+
+	.c4 {
+	width: 54px;
+    height: 3px;
+    background: green;
+    transform: rotate(63deg);
+    left: -9px;
+    top: 91px;
+    position: absolute;
+	}
+
+	.c5 {
+	width: 41px;
+    height: 3px;
+    background: green;
+    left: 29px;
+    top: 115px;
+    position: absolute;
+	}
+
+    .appear{
+    display: block;
+    }
+
+    .cin1{
+    width: 120px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -10px;
+    position: absolute;
+    transform: rotate(109deg);
+    }
+
+    .cin2{
+    width: 120px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -11px;
+    position: absolute;
+    transform: rotate(71deg);
+    }
+
+    .cin3{
+    width: 114px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -28px;
+    top: 59px;
+    position: absolute;
+    }
+
+    .cin4{
+    width: 114px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 12.2px;
+    top: 59px;
+    position: absolute;
+    }
+
+    .cin5{
+    width: 93px;
+    height: 1px;
+    background: green;
+    transform: rotate(47deg);
+    left: -9px;
+    top: 82px;
+    position: absolute;
+    }
+
+    .cin6{
+    width: 79px;
+    height: 1px;
+    background: green;
+    transform: rotate(37deg);
+    left: -3px;
+    top: 91px;
+    position: absolute;
+    }
+
+    .cin7{
+    width: 90px;
+    height: 1px;
+    background: green;
+    transform: rotate(-46deg);
+    left: -7px;
+    top: 34px;
+    position: absolute;
+    }
+
+    .cin8 {
+    width: 78px;
+    height: 1px;
+    background: green;
+    transform: rotate(-37deg);
+    left: -3px;
+    top: 26px;
+    position: absolute;
+    }
+
+/* letter D */
+
+    .d:hover .dframe{
+    display:block ;
+    }
+
+    .d{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 319px;
+    }
+
+    .dframe{
+        display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .din{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+	.d1 {
+	width: 113px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -30px;
+    top: 58px;
+    position: absolute;
+	}
+
+	.d2{
+	width: 47px;
+    height: 3px;
+    background: green;
+    left: 3px;
+    top: 0;
+    position: absolute;
+    }
+
+    .d3{
+	width: 53px;
+    height: 3px;
+    background: green;
+    transform: rotate(62deg);
+    left: 34px;
+    top: 23px;
+    position: absolute;
+    }
+
+    .d4{
+	width: 23px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 61.2px;
+    top: 57px;
+    position: absolute;
+    }
+
+    .d5{
+	width: 53px;
+    height: 3px;
+    background: green;
+    transform: rotate(117deg);
+    left: 34px;
+    top: 91px;
+    position: absolute;
+    }
+
+     .d6{
+	width: 45px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 115px;
+    position: absolute;}
+
+    .appear{
+    display: block;
+    }
+
+    .din1{
+    width: 96px;
+    height: 1px;
+    background: green;
+    transform: rotate(44deg);
+    left: -9px;
+    top: 36px;
+    position: absolute;
+    }
+
+    .din2{
+    width: 96px;
+    height: 1px;
+    background: green;
+    transform: rotate(134deg);
+    left: -9px;
+    top: 82px;
+    position: absolute;
+    }
+
+     .din3{
+    width: 121px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -34px;
+    position: absolute;
+    transform: rotate(110deg);
+    }
+
+     .din4{
+    width: 123px;
+    height: 1px;
+    background: green;
+    top: 58px;
+    left: -36px;
+    position: absolute;
+    transform: rotate(249deg);
+    }
+
+    .din5 {
+    width: 113px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -8.9px;
+    top: 58px;
+    position: absolute;
+    }
+
+    .din6 {
+    width: 73px;
+    height: 1px;
+    background: green;
+    transform: rotate(110deg);
+    left: 23px;
+    top: 82px;
+    position: absolute;
+    }
+
+    .din7 {
+    width: 73px;
+    height: 1px;
+    background: green;
+    transform: rotate(249deg);
+    left: 23px;
+    top: 35px;
+    position: absolute;
+    }
+
+    .din8 {
+    width: 81px;
+    height: 1px;
+    background: green;
+    transform: rotate(144deg);
+    left: -2px;
+    top: 92px;
+    position: absolute;
+    }
+
+    .din9 {
+    width: 84px;
+    height: 1px;
+    background: green;
+    transform: rotate(214deg);
+    left: -4px;
+    top: 25px;
+    position: absolute;
+    }
+
+ /* letter E */  
+
+    .e:hover .eframe{
+    display:block ;
+    }
+
+    .e{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 438px;
+    }
+
+    .eframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .ein{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .e1{
+    width: 67px;
+    height: 3px;
+    background: green;
+    left: 3px;
+    top: 0;
+    position: absolute;
+    }
+
+    .e2{
+    width: 114px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -53px;
+    top: 57px;
+    position: absolute;
+    }
+
+    .e3{
+    width: 67px;
+    height: 3px;
+    background: green;
+    left: 2.4px;
+    top: 115px;
+    position: absolute;
+    }
+
+    .e4{
+    width: 38px;
+    height: 3px;
+    background: green;
+    left: 3px;
+    top: 58px;
+    position: absolute;
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .ein1{
+    width: 131px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -29px;
+    position: absolute;
+    transform: rotate(120deg);
+    }
+
+    .ein2{
+    width: 131px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -29px;
+    position: absolute;
+    transform: rotate(241deg);
+    }
+
+    .ein3 {
+    width: 67px;
+    height: 1px;
+    background: green;
+    top: 87px;
+    left: -10px;
+    position: absolute;
+    transform: rotate(122deg);
+    }
+
+    .ein4 {
+    width: 67px;
+    height: 1px;
+    background: green;
+    top: 29px;
+    left: -11px;
+    position: absolute;
+    transform: rotate(238deg);
+    }
+
+    .ein5 {
+    width: 85px;
+    height: 1px;
+    background: green;
+    top: 87px;
+    left: -6px;
+    position: absolute;
+    transform: rotate(222deg);
+    }
+
+    .ein6 {
+    width: 88px;
+    height: 1px;
+    background: green;
+    top: 31px;
+    left: -8px;
+    position: absolute;
+    transform: rotate(139deg);
+    }
+
+    .ein7{
+    width: 114px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 12px;
+    top: 57px;
+    position: absolute;
+    }
+
+/* letter F */
+
+    .f:hover .fframe{
+    display:block ;
+    }
+
+    
+    .f{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 546px;
+    }
+
+    .fframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .fin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .f1{
+    width: 66px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 0px;
+    position: absolute;
+    }
+
+    .f2{
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -53px;
+    top: 57px;
+    position: absolute;
+    }
+
+    .f3 {
+    width: 55px;
+    height: 3px;
+    background: green;
+    left: 4px;
+    top: 46px;
+    position: absolute;
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .fin1{
+    width: 130px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -27px;
+    position: absolute;
+    transform: rotate(119deg);
+    }
+
+    .fin2{
+    width: 47px;
+    height: 1px;
+    background: green;
+    top: 25px;
+    left: 41px;
+    position: absolute;
+    transform: rotate(104deg);
+    }
+
+    .fin3 {
+    width: 87px;
+    height: 1px;
+    background: green;
+    top: 82px;
+    left: -11px;
+    position: absolute;
+    transform: rotate(127deg);
+    }
+
+    .fin4 {
+    width: 71px;
+    height: 1px;
+    background: green;
+    top: 23px;
+    left: -4px;
+    position: absolute;
+    transform: rotate(220deg);
+    }
+
+    .fin5 {
+    width: 85px;
+    height: 1px;
+    background: green;
+    top: 87px;
+    left: -6px;
+    position: absolute;
+    transform: rotate(222deg);
+    }
+
+    .fin6 {
+    width: 80px;
+    height: 1px;
+    background: green;
+    top: 24px;
+    left: -2px;
+    position: absolute;
+    transform: rotate(146deg);
+    }
+
+    /* letter g */
+
+    .g:hover .gframe{
+    display:block ;
+    }
+
+    .g{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 654px;
+    }
+
+    .gframe{
+    display:none; 
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .gin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .g1{
+    width: 35px;
+    height: 3px;
+    background: green;
+    left: 35px;
+    top: 0px;
+    position: absolute;
+    }
+
+    .g2{
+    width: 37px;
+    height: 3px;
+    background: green;
+    left: 17px;
+    top: 115px;
+    position: absolute;
+    }
+
+    .g3{
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: -25.8px;
+    top: 76px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .g4{
+    width: 14.2px;
+    height: 3px;
+    background: green;
+    left: 0px;
+    top: 42px;
+    position: absolute;
+    transform: rotate(117deg);
+    }
+
+    .g5{
+    width: 20px;
+    height: 3px;
+    background: green;
+    left: 52px;
+    top: 109px;
+    position: absolute;
+    transform: rotate( 145deg);
+    }
+
+    .g6{
+    width: 17px;
+    height: 3px;
+    background: green;
+    left: 2px;
+    top: 110px;
+    position: absolute;
+    transform: rotate( 39deg);
+    }
+
+    .g7{
+    width: 42px;
+    height: 3px;
+    background: green;
+    left: 49px;
+    top: 84px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .g8{
+    width: 46.3px;
+    height: 3px;
+    background: green;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    transform: rotate(127deg);
+    } 
+
+    .g9{
+    width: 34px;
+    height: 3px;
+    background: green;
+    left: 37px;
+    top: 63px;
+    position: absolute;
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .gin1{
+    width: 126px;
+    height: 1px;
+    background: green;
+    top: 60px;
+    left: -20px;
+    position: absolute;
+    transform: rotate(115deg);
+    }
+
+    .gin2{
+    width: 120px;
+    height: 1px;
+    background: green;
+    top: 49px;
+    left: -8px;
+    position: absolute;
+    transform: rotate(73deg);
+    }
+
+    .gin3{
+    width: 114px;
+    height: 1px;
+    background: green;
+    transform: rotate(100deg);
+    left: -30px;
+    top: 59px;
+    position: absolute;
+    }
+
+    .gin4{
+    width: 64px;
+    height: 1px;
+    background: green;
+    transform: rotate(89deg);
+    left: 38.4px;
+    top: 33px;
+    position: absolute;
+    }
+
+    .gin5{
+    width: 85px;
+    height: 1px;
+    background: green;
+    transform: rotate(41deg);
+    left: -6px;
+    top: 76px;
+    position: absolute;
+    }
+
+    .gin6{
+    width: 84px;
+    height: 1px;
+    background: green;
+    transform: rotate(54deg);
+    left: -12px;
+    top: 83px;
+    position: absolute;
+    }
+
+    .gin7{
+    width: 69px;
+    height: 1px;
+    background: green;
+    transform: rotate(-31deg);
+    left: 6px;
+    top: 20px;
+    position: absolute;
+    }
+
+    .gin8 {
+    width: 80px;
+    height: 1px;
+    background: green;
+    transform: rotate(-36deg);
+    left: -3px;
+    top: 26px;
+    position: absolute;
+    }
+
+      /* letter h */
+
+    .h:hover .hframe{
+    display:block ;
+    }
+  
+
+    .h{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 759px;
+    }
+
+    .hframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .hin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .h1{
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -48px;
+    top: 57px;
+    position: absolute;
+    }
+
+    .h2{
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 12px;
+    top: 57px;
+    position: absolute;
+    }
+
+    .h3 {
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: 10px;
+    top: 58px;
+    position: absolute;
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .hin1{
+    width: 129px;
+    height: 1px;
+    background: green;
+    top: 58px;
+    left: -25px;
+    position: absolute;
+    transform: rotate(117deg);}   
+
+    .hin2{
+    width: 129px;
+    height: 1px;
+    background: green;
+    top: 58px;
+    left: -25px;
+    position: absolute;
+    transform: rotate(244deg);} 
+
+    .hin3{
+    width: 82px;
+    height: 1px;
+    background: green;
+    top: 31px;
+    left: 1px;
+    position: absolute;
+    transform: rotate(224deg);} 
+
+    .hin4{
+    width: 85px;
+    height: 1px;
+    background: green;
+    top: 31px;
+    left: -4px;
+    position: absolute;
+    transform: rotate(314deg);} 
+
+    .hin5{
+    width: 82px;
+    height: 1px;
+    background: green;
+    top: 88px;
+    left: -2px;
+    position: absolute;
+    transform: rotate(223deg);
+    } 
+
+    .hin6{
+    width: 82px;
+    height: 1px;
+    background: green;
+    top: 88px;
+    left: -2px;
+    position: absolute;
+    transform: rotate(316deg);;
+    } 
+
+    .hin7{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 0px;
+    position: absolute;
+    }
+
+    .hin8{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 116px;
+    position: absolute;
+    }
+
+      /* letter i */
+
+    .i:hover .iframe{
+    display:block ;
+    }
+
+    .i{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 896px;
+    }
+
+    .iframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .iin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .i1{
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: 10px;
+    top: 119px;
+    position: absolute;
+    }
+
+    .i2{
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: 10px;
+    top: 1px;
+    position: absolute;
+    }
+
+    .i3{
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -17px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .iin1{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 13px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .iin2{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -47px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .iin3{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -17px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .iin4{
+    width: 131px;
+    height: 1px;
+    background: green;
+    transform: rotate(243deg);
+    left: -25px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .iin5{
+    width: 131px;
+    height: 1px;
+    background: green;
+    transform: rotate(117deg);
+    left: -25px;
+    top: 62px;
+    position: absolute;
+    }
+
+     /* letter j */
+
+     .j:hover .jframe{
+    display:block ;
+    }
+
+    .j{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 990px;
+    }
+
+    .jframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .jin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .j2{
+    width: 19px;
+    height: 3px;
+    background: green;
+    left: 33px;
+    top: 115px;
+    position: absolute;
+    }
+
+    .j3{
+    width: 37px;
+    height: 3px;
+    background: green;
+    left: -2.8px;
+    top: 83px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .j4{
+    width: 102.2px;
+    height: 3px;
+    background: green;
+    left: 11px;
+    top: 51px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .j5{
+    width: 18px;
+    height: 3px;
+    background: green;
+    left: 48px;
+    top: 108px;
+    position: absolute;
+    transform: rotate( 128deg);
+    }
+
+    .j6{
+    width: 23px;
+    height: 3px;
+    background: green;
+    left: 14px;
+    top: 108px;
+    position: absolute;
+    transform: rotate( 40deg);
+    }
+
+    .appear{
+    display: block;
+    }
+
+
+    .jin1{
+    width: 122px;
+    height: 1px;
+    background: green;
+    top: 56px;
+    left: -28px;
+    position: absolute;
+    transform: rotate(248deg);}   
+
+    .jin2{
+    width: 121px;
+    height: 1px;
+    background: green;
+    top: 57px;
+    left: -15px;
+    position: absolute;
+    transform: rotate(292deg);} 
+
+    .jin3{
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 104px;
+    left: 8px;
+    position: absolute;
+    transform: rotate(200deg);} 
+
+    .jin4{
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 103px;
+    left: 21px;
+    position: absolute;
+    transform: rotate(337deg);} 
+
+    .jin5{
+    width: 112px;
+    height: 1px;
+    background: green;
+    top: 48px;
+    left: -16px;
+    position: absolute;
+    transform: rotate(301deg);
+    } 
+
+    .jin6{
+    width: 112px;
+    height: 1px;
+    background: green;
+    top: 48px;
+    left: -16px;
+    position: absolute;
+    transform: rotate(417deg);
+    } 
+
+    .jin7{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 0px;
+    position: absolute;
+    }
+
+    .jin8{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 95px;
+    position: absolute;
+    }
+
+
+
+    /* letter k */
+
+    .k:hover .kframe{
+    display:block ;
+    }
+
+    .k{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 1100px;
+    }
+
+    .kframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .kin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .k1{
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left:-51px;
+    top: 58px;
+    position: absolute;
+    }
+
+    .k2{
+    width: 85px;
+    height: 3px;
+    background: green;
+    transform: rotate(140deg);
+    left: -5px;
+    top: 30px;
+    position: absolute;
+    }
+
+    .k3{
+    width: 88px;
+    height: 3px;
+    background: green;
+    transform: rotate(220deg);
+    left: -2px;
+    top: 87px;
+    position: absolute;}
+
+    .appear{
+    display: block;
+    }
+
+
+    .kin1{
+    width: 131px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -29px;
+    position: absolute;
+    transform: rotate(120deg);
+    }
+
+    .kin2{
+    width: 131px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -29px;
+    position: absolute;
+    transform: rotate(241deg);
+    }
+
+    .kin3 {
+    width: 67px;
+    height: 1px;
+    background: green;
+    top: 87px;
+    left: -10px;
+    position: absolute;
+    transform: rotate(122deg);
+    }
+
+    .kin4 {
+    width: 67px;
+    height: 1px;
+    background: green;
+    top: 29px;
+    left: -11px;
+    position: absolute;
+    transform: rotate(238deg);
+    }
+
+    .kin5 {
+    width: 85px;
+    height: 1px;
+    background: green;
+    top: 87px;
+    left: -6px;
+    position: absolute;
+    transform: rotate(222deg);
+    }
+
+    .kin6 {
+    width: 88px;
+    height: 1px;
+    background: green;
+    top: 31px;
+    left: -8px;
+    position: absolute;
+    transform: rotate(139deg);
+    }
+
+    .kin7{
+    width: 114px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 12px;
+    top: 57px;
+    position: absolute;
+    }
+    
+    /* letter l */
+
+    .l:hover .lframe{
+    display:block ;
+    }
+
+    .l{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 20px;
+    left: 1204px;
+    }
+
+    .lframe{
+    display: none;
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .lin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    } 
+
+    .l1{
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: 13px;
+    top: 115px;
+    position: absolute;
+    }
+
+    .l2{
+    width: 116px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -45px;
+    top: 58px;
+    position: absolute;
+    }
+
+    .appear{
+    display: block;
+    }
+
+    .lin1{
+    width: 128px;
+    height: 1px;
+    background: green;
+    transform: rotate(63deg);
+    left: -22px;
+    top: 57px;
+    position: absolute;
+    }
+
+    /* letter m */
+
+     .m:hover .mframe{
+    display:block ;
+    }
+
+    .m{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 217px;
+    left: 0px;
+    }
+
+    .mframe{
+    display: none; 
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .min{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .m1{
+    width: 117px;
+    height: 3px;
+    background: green;
+    left: -49.8px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg);   
+    }
+
+    .m2{
+    width: 117px;
+    height: 3px;
+    background: green;
+    left: 10.2px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg);   
+    }
+
+    .m3{
+    width: 52px;
+    height: 3px;
+    background: green;
+    left: -2.8px;
+    top: 26px;
+    position: absolute;
+    transform: rotate(56deg);  
+    }
+
+    .m4{
+    width: 52px;
+    height: 3px;
+    background: green;
+    left: 27.2px;
+    top: 26px;
+    position: absolute;
+    transform: rotate(124deg);  
+    }
+
+    .m5{
+    width: 12px;
+    height: 3px;
+    background: green;
+    left: 32.2px;
+    top: 51px;
+    position: absolute;
+    transform: rotate(90deg);  
+    }
+
+    .appear{
+    display: block;
+    }
+
+    .min1{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 4px;
+    position: absolute;
+    transform: rotate(0deg);   
+    }
+
+    .min2{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 121px;
+    position: absolute;
+    transform: rotate(0deg);
+    }
+
+    .min3{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: -6.8px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(60deg);  
+    }
+
+    .min4{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: 25.2px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(120deg);
+    }
+
+    .min5{
+    width: 130px;
+    height: 1px;
+    background: green;
+    left: -26.8px;
+    top: 65px;
+    position: absolute;
+    transform: rotate(118deg); 
+    }
+
+    .min6{
+    width: 130px;
+    height: 1px;
+    background: green;
+    left: -26.8px;
+    top: 65px;
+    position: absolute;
+    transform: rotate(241deg);
+    }
+
+    .min7{
+    width: 70px;
+    height: 1px;
+    background: green;
+    left: -12.8px;
+    top: 89px;
+    position: absolute;
+    transform: rotate(115deg);
+    }
+
+    .min8{
+    width: 70px;
+    height: 1px;
+    background: green;
+    left: 19.2px;
+    top: 89px;
+    position: absolute;
+    transform: rotate(65deg);
+    }
+
+    /* letter n */
+
+    .n{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 216px;
+    left: 115px;
+    }
+
+    .nframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .nin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .n1{
+    width: 117px;
+    height: 3px;
+    background: green;
+    left: -49.8px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg);   
+    }
+
+    .n2{
+    width: 117px;
+    height: 3px;
+    background: green;
+    left: 10.2px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg);   
+    }
+
+    .n3{
+    width: 121px;
+    height: 3px;
+    background: green;
+    left: -21.8px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(74deg);
+    }
+
+    .n4{
+    width: 12px;
+    height: 3px;
+    background: green;
+    left: 55.2px;
+    top: 119px;
+    position: absolute;
+    transform: rotate(0deg); 
+    }
+
+    .n5{
+    width: 12px;
+    height: 3px;
+    background: green;
+    left: 8.2px;
+    top: 4px;
+    position: absolute;
+    transform: rotate(0deg); 
+    }
+
+    .nin1{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 4px;
+    position: absolute;
+    transform: rotate(0deg);   
+    }
+
+    .nin2{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 121px;
+    position: absolute;
+    transform: rotate(0deg);
+    }
+
+    .nin3{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: -6.8px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(60deg);  
+    }
+
+    .nin4{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: 25.2px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(120deg);
+    }
+
+    .nin5{
+    width: 130px;
+    height: 1px;
+    background: green;
+    left: -26.8px;
+    top: 65px;
+    position: absolute;
+    transform: rotate(118deg); 
+    }
+
+    .nin6{
+    width: 130px;
+    height: 1px;
+    background: green;
+    left: -26.8px;
+    top: 65px;
+    position: absolute;
+    transform: rotate(241deg);
+    }
+
+    .nmin7{
+    width: 70px;
+    height: 1px;
+    background: green;
+    left: -12.8px;
+    top: 89px;
+    position: absolute;
+    transform: rotate(115deg);
+    }
+
+    .nin8{
+    width: 70px;
+    height: 1px;
+    background: green;
+    left: 19.2px;
+    top: 89px;
+    position: absolute;
+    transform: rotate(65deg);
+    }
+
+
+
+    /* letter o */
+
+    .o{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 219px;
+    left: 226px;
+    }
+
+    .oframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .oin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .o1{
+    width: 12px;
+    height: 3px;
+    background: green;
+    left: 32px;
+    top: 3px;
+    position: absolute;
+    }
+
+    .o2{
+    width: 14px;
+    height: 3px;
+    background: green;
+    left: 33px;
+    top: 119px;
+    position: absolute;
+    }
+
+    .o3{
+    width: 14px;
+    height: 3px;
+    background: green;
+    left: 4.2px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .o4{
+    width: 14.2px;
+    height: 3px;
+    background: green;
+    left: 62px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg)
+    }
+
+    .o5{
+    width: 57px;
+    height: 3px;
+    background: green;
+    left: 29px;
+    top: 93px;
+    position: absolute;
+    transform: rotate( 115deg)
+    }
+
+    .o6{
+    width: 57px;
+    height: 3px;
+    background: green;
+    left: -5px;
+    top: 94px;
+    position: absolute;
+    transform: rotate( 65deg);
+    }
+
+    .o7{
+    width: 12px;
+    height: 3px;
+    background: green;
+    left: 63px;
+    top: 62px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .o8{
+    width: 60.3px;
+    height: 3px;
+    background: green;
+    left: 26px;
+    top: 29px;
+    position: absolute;
+    transform: rotate(64deg);
+    }
+
+    .o9{
+    width: 57px;
+    height: 3px;
+    background: green;
+    left: 29px;
+    top: 93px;
+    position: absolute;
+    transform: rotate( 115deg)
+    }
+
+
+    .o10{
+    width: 59px;
+    height: 3px;
+    background: green;
+    left: -7px;
+    top: 29px;
+    position: absolute;
+    transform: rotate(-67deg);
+    }
+
+    .o11{
+    width: 15px;
+    height: 3px;
+    background: green;
+    left: 60px;
+    top: 111px;
+    position: absolute;
+    transform: rotate(0deg);
+    }
+
+    .o12{
+    width: 63px;
+    height: 1px;
+    background: green;
+    left: -3px;
+    top: 30px;
+    position: absolute;
+    transform: rotate(660deg);
+    }
+
+    .o13{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: 22px;
+    top: 94px;
+    position: absolute;
+    transform: rotate(483deg);
+    }
+
+    .o14{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: -1px;
+    top: 94px;
+    position: absolute;
+    transform: rotate(598deg);
+    }
+
+    .o15{
+    width: 55px;
+    height: 3px;
+    background: green;
+    left: 23px;
+    top: 87px;
+    position: absolute;
+    transform: rotate( 65deg);
+    }
+
+
+    .oin1{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(270deg);
+    left: -23px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .oin2{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(88deg);
+    left: -15px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .oin3{
+    width: 60px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 69px;
+    position: absolute;
+    }
+
+    .oin4{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 57px;
+    position: absolute;
+    }
+
+    .oin5{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(88deg);
+    left: -15px;
+    top: 62px;
+    position: absolute
+    }
+
+    .oin6{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(265deg);
+    left: -19px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .oin7{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(93deg);
+    left: -20px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .oin8{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9px;
+    top: 63px;
+    position: absolute;
+    transform: rotate(371deg);
+    }
+
+    .oin9{
+    width: 60px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 63px;
+    position: absolute;
+    transform: rotate(529deg);
+    }
+
+    .oin10{
+    width: 63px;
+    height: 1px;
+    background: green;
+    left: 20px;
+    top: 30px;
+    position: absolute;
+    transform: rotate(597deg);
+    }
+
+    .oin11{
+    width: 63px;
+    height: 1px;
+    background: green;
+    left: 20px;
+    top: 30px;
+    position: absolute;
+    transform: rotate(597deg);
+    }
+
+    .oin12{
+    width: 63px;
+    height: 1px;
+    background: green;
+    left: 20px;
+    top: 30px;
+    position: absolute;
+    transform: rotate(597deg);
+    }
+
+    .oin13{
+    width: 63px;
+    height: 1px;
+    background: green;
+    left: 20px;
+    top: 30px;
+    position: absolute;
+    transform: rotate(597deg);
+    }
+
+    /* letter p */
+
+    .p{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 219px;
+    left: 340px;
+    }
+
+    .pframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .pin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    }
+
+    .p1 {
+    width: 119px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -54px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .p2{
+    width: 51px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 3px;
+    position: absolute;
+    }
+
+    .p3{
+    width: 23px;
+    height: 3px;
+    background: green;
+    transform: rotate(47deg);
+    left: 52px;
+    top: 11px;
+    position: absolute;
+    }
+
+    .p4{
+    width: 36px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 53.2px;
+    top: 36px;
+    position: absolute;
+    }
+
+    .p5{
+    width: 26px;
+    height: 3px;
+    background: green;
+    transform: rotate(124deg);
+    left: 51px;
+    top: 64px;
+    position: absolute;
+    }
+
+     .p6{
+    width: 52px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 74px;
+    position: absolute;
+    }
+
+    .pin1{
+    width: 127px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -32px;
+    position: absolute;
+    transform: rotate(113deg);
+    }
+
+    .pin2{
+    width: 59px;
+    height: 1px;
+    background: green;
+    top: 41px;
+    left: 33px;
+    position: absolute;
+    transform: rotate(104deg);
+    }
+
+    .pin3 {
+    width: 70px;
+    height: 1px;
+    background: green;
+    top: 93px;
+    left: -3px;
+    position: absolute;
+    transform: rotate(138deg);
+    }
+
+    .pin4 {
+    width: 81px;
+    height: 1px;
+    background: green;
+    top: 24px;
+    left: -3px;
+    position: absolute;
+    transform: rotate(217deg);
+    }
+
+    .pin5 {
+    width: 84px;
+    height: 1px;
+    background: green;
+    top: 36px;
+    left: -10px;
+    position: absolute;
+    transform: rotate(234deg);
+    }
+
+    .pin6 {
+    width: 85px;
+    height: 1px;
+    background: green;
+    top: 43px;
+    left: -5px;
+    position: absolute;
+    transform: rotate(139deg);
+    } 
+
+    /* letter q */
+
+    .q{
+    height: 131px;
+    width: 79px;
+    position: absolute;
+    top: 224px;
+    left: 442px;
+    }
+
+    .qframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .qin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    /* letter r */
+
+    .r{
+    height: 131px;
+    width: 79px;
+    position: absolute;
+    top: 219px;
+    left: 558px;
+    }
+
+    .rframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .rin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    }
+
+    .r1 {
+    width: 119px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -54px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .r2{
+    width: 51px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 3px;
+    position: absolute;
+    }
+
+    .r3{
+    width: 23px;
+    height: 3px;
+    background: green;
+    transform: rotate(47deg);
+    left: 52px;
+    top: 11px;
+    position: absolute;
+    }
+
+    .r4{
+    width: 23px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 60.2px;
+    top: 30px;
+    position: absolute;
+    }
+
+    .r5{
+    width: 17px;
+    height: 3px;
+    background: green;
+    transform: rotate(135deg);
+    left: 58px;
+    top: 46px;
+    position: absolute;
+    }
+
+     .r6{
+    width: 56px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 52px;
+    position: absolute;
+    }  
+
+    .r7{
+    width: 84px;
+    height: 3px;
+    background: green;
+    transform: rotate(235deg);
+    left: 6px;
+    top: 85px;
+    position: absolute;
+    }
+
+    .rin1{
+    width: 127px;
+    height: 1px;
+    background: green;
+    top: 59px;
+    left: -32px;
+    position: absolute;
+    transform: rotate(113deg);
+    }
+
+    .rin2{
+    width: 59px;
+    height: 1px;
+    background: green;
+    top: 41px;
+    left: 33px;
+    position: absolute;
+    transform: rotate(104deg);
+    }
+
+    .rin3 {
+    width: 70px;
+    height: 1px;
+    background: green;
+    top: 93px;
+    left: -3px;
+    position: absolute;
+    transform: rotate(138deg);
+    }
+
+    .rin4 {
+    width: 81px;
+    height: 1px;
+    background: green;
+    top: 24px;
+    left: -3px;
+    position: absolute;
+    transform: rotate(217deg);
+    }
+
+    .rin5 {
+    width: 84px;
+    height: 1px;
+    background: green;
+    top: 36px;
+    left: -10px;
+    position: absolute;
+    transform: rotate(234deg);
+    }
+
+    .rin6 {
+    width: 85px;
+    height: 1px;
+    background: green;
+    top: 43px;
+    left: -5px;
+    position: absolute;
+    transform: rotate(139deg);
+    } 
+
+     /* letter s */
+
+    .s{
+    height: 131px;
+    width: 79px;
+    position: absolute;
+    top: 220px;
+    left: 665px;
+    }
+
+    .sframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .sin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: -4px;
+    }
+
+    .s1 {
+    width: 21px;
+    height: 3px;
+    background: green;
+    transform: rotate(57deg);
+    left: -1px;
+    top: 110px;
+    position: absolute;
+    }
+
+    .s2{
+    width: 57px;
+    height: 3px;
+    background: green;
+    left: 5px;
+    top: 3px;
+    position: absolute;
+    }
+
+    .s3{
+    width: 20px;
+    height: 3px;
+    background: green;
+    transform: rotate(50deg);
+    left: 58px;
+    top: 10px;
+    position: absolute;
+    }
+
+    .s4{
+    width: 14px;
+    height: 3px;
+    background: green;
+    transform: rotate(132deg);
+    left: 64.2px;
+    top: 22px;
+    position: absolute;
+    }
+
+    .s5{
+    width: 18px;
+    height: 3px;
+    background: green;
+    transform: rotate(101deg);
+    left: -4px;
+    top: 12px;
+    position: absolute;
+    }
+
+     .s6{
+    width: 12px;
+    height: 3px;
+    background: green;
+    transform: rotate(113deg);
+    left: -1px;
+    top: 96px;
+    position: absolute;
+    }  
+
+    .s7{
+    width: 46px;
+    height: 3px;
+    background: green;
+    left: 16px;
+    top: 118px;
+    position: absolute;
+    } 
+    
+    .s8{
+    width: 22px;
+    height: 3px;
+    background: green;
+    transform: rotate(309deg);
+    left: 57px;
+    top: 109px;
+    position: absolute;
+    } 
+
+    .s9{
+    width: 108px;
+    height: 3px;
+    background: green;
+    transform: rotate(229deg);
+    left: -16px;
+    top: 61px;
+    position: absolute;
+    }
+
+    .sin1{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 8px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .sin2{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(87deg);
+    left: -42px;
+    top: 63px;
+    position: absolute;
+    }
+
+    .sin3{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -17px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .sin4{
+    width: 131px;
+    height: 1px;
+    background: green;
+    transform: rotate(245deg);
+    left: -28px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .sin5{
+    width: 123px;
+    height: 1px;
+    background: green;
+    transform: rotate(113deg);
+    left: -19px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .sin6{
+    width: 65px;
+    height: 1px;
+    background: green;
+    left: 8px;
+    top: 26px;
+    position: absolute;
+    transform: rotate(3deg);
+    }
+
+    .sin7{
+    width: 65px;
+    height: 1px;
+    background: green;
+    transform: rotate(157deg);
+    left: 7px;
+    top: 16px;
+    position: absolute;
+    }
+
+    .sin8{
+    width: 65px;
+    height: 1px;
+    background: green;
+    transform: rotate(203deg);
+    left: 7px;
+    top: 16px;
+    position: absolute;
+    } 
+
+    .sin9{
+    width: 61px;
+    height: 1px;
+    background: green;
+    transform: rotate(164deg);
+    left: 16px;
+    top: 111px;
+    position: absolute;    
+    }
+
+    .sin10{
+    width: 68px;
+    height: 1px;
+    background: green;
+    left: 9px;
+    top: 97px;
+    position: absolute;
+    transform: rotate(9deg);
+    }
+
+    .sin11{
+    width: 69px;
+    height: 1px;
+    background: green;
+    transform: rotate(181deg);
+    left: 7px;
+    top: 103px;
+    position: absolute;
+    }
+
+    .sin12{
+    width: 68px;
+    height: 1px;
+    background: green;
+    transform: rotate(175deg);
+    left: 8px;
+    top: 20px;
+    position: absolute;
+    }
+
+    .sin13{
+    width: 81px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -34px;
+    top: 61px;
+    position: absolute 
+    }
+
+    .sin14{
+    width: 83px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 38px;
+    top: 61px;
+    position: absolute;
+    }
+    
+
+     /* letter T */
+    
+
+    .t{
+    height: 155px;
+    width: 79px;
+    position: absolute;
+    top: 220px;
+    left: 772px;
+    }
+
+    .tframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .tin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .t1{
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: 10px;
+    top: 119px;
+    position: absolute;
+    }
+
+    .t2{
+    width: 61px;
+    height: 3px;
+    background: green;
+    left: 10px;
+    top: 1px;
+    position: absolute;
+    }
+
+    .t3{
+    width: 29px;
+    height: 3px;
+    background: green;
+    left: -4px;
+    top: 14px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .t4{
+    width: 29px;
+    height: 3px;
+    background: green;
+    left: 55px;
+    top: 14px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .t5{
+    width: 116px;
+    height: 3px;
+    background: green;
+    left: -18px;
+    top: 60px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    .tin1{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: 13px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .tin2{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -47px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .tin3{
+    width: 116px;
+    height: 1px;
+    background: green;
+    transform: rotate(90deg);
+    left: -17px;
+    top: 60px;
+    position: absolute;
+    }
+
+    .tin4{
+    width: 131px;
+    height: 1px;
+    background: green;
+    transform: rotate(243deg);
+    left: -25px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .tin5{
+    width: 131px;
+    height: 1px;
+    background: green;
+    transform: rotate(117deg);
+    left: -25px;
+    top: 62px;
+    position: absolute;
+    }
+
+    .tin6{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 29px;
+    position: absolute;
+    }
+
+    .tin7{
+    width: 65px;
+    height: 1px;
+    background: green;
+    transform: rotate(157deg);
+    left: 7px;
+    top: 16px;
+    position: absolute;
+    }
+
+    .tin8{
+    width: 65px;
+    height: 1px;
+    background: green;
+    transform: rotate(203deg);
+    left: 7px;
+    top: 16px;
+    position: absolute;
+    }
+
+     /* letter u */
+
+    .u{
+    height: 155px;
+    width: 79px;
+    position: absolute;
+    top: 224px;
+    left: 881px;
+    }
+
+    .uframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .uin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .u1 {
+    width: 96px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -38.6px;
+    top: 47px;
+    position: absolute;
+    }
+
+    .u2 {
+    width: 93px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 23px;
+    top: 46px;
+    position: absolute;
+    }
+
+    .u3 {
+    width: 24px;
+    height: 3px;
+    background: green;
+    transform: rotate(131deg);
+    left: 50.4px;
+    top: 101px;
+    position: absolute;
+    }
+
+    .u4 {
+    width: 24px;
+    height: 3px;
+    background: green;
+    transform: rotate(229deg);
+    left: 5px;
+    top: 101px;
+    position: absolute;
+    }
+
+    .u5 {
+    width: 31px;
+    height: 3px;
+    background: green;
+    transform: rotate(0);
+    left: 24px;
+    top: 110px;
+    position: absolute;
+    }
+
+    .uin1{
+    width: 122px;
+    height: 1px;
+    background: green;
+    top: 56px;
+    left: -28px;
+    position: absolute;
+    transform: rotate(248deg);}   
+
+    .uin2{
+    width: 121px;
+    height: 1px;
+    background: green;
+    top: 57px;
+    left: -15px;
+    position: absolute;
+    transform: rotate(292deg);} 
+
+    .uin3{
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 104px;
+    left: 8px;
+    position: absolute;
+    transform: rotate(200deg);} 
+
+    .uin4{
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 103px;
+    left: 21px;
+    position: absolute;
+    transform: rotate(337deg);} 
+
+    .uin5{
+    width: 112px;
+    height: 1px;
+    background: green;
+    top: 48px;
+    left: -16px;
+    position: absolute;
+    transform: rotate(301deg);
+    } 
+
+    .uin6{
+    width: 112px;
+    height: 1px;
+    background: green;
+    top: 48px;
+    left: -16px;
+    position: absolute;
+    transform: rotate(417deg);
+    } 
+
+    .uin7{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 0px;
+    position: absolute;
+    }
+
+    .uin8{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 95px;
+    position: absolute;
+    }
+
+    /* letter v */
+
+    .v{
+    height: 155px;
+    width: 79px;
+    position: absolute;
+    top: 224px;
+    left: 990px;
+    }
+
+    .vframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .vin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .v1 {
+    width: 36px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -5.6px;
+    top: 17px;
+    position: absolute;
+    }
+
+    .v2 {
+    width: 36px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 50.4px;
+    top: 17px;
+    position: absolute;
+    }
+
+    .v3 {
+    width: 84px;
+    height: 3px;
+    background: green;
+    transform: rotate(111deg);
+    left: 11.4px;
+    top: 73px;
+    position: absolute;
+    }
+
+    .v4 {
+    width: 84px;
+    height: 3px;
+    background: green;
+    transform: rotate(71deg);
+    left: -16.6px;
+    top: 73px;
+    position: absolute;
+    }
+
+    .vin1{
+    width: 117px;
+    height: 1px;
+    background: green;
+    top: 56px;
+    left: -32px;
+    position: absolute;
+    transform: rotate(257deg)}   
+
+    .vin2{
+    width: 117px;
+    height: 1px;
+    background: green;
+    top: 57px;
+    left: -6px;
+    position: absolute;
+    transform: rotate(284deg);} 
+
+    .vin3{
+    width: 67px;
+    height: 1px;
+    background: green;
+    top: 18px;
+    left: 7px;
+    position: absolute;
+    transform: rotate(214deg);} 
+
+    .vin4{
+    width: 67px;
+    height: 1px;
+    background: green;
+    top: 18px;
+    left: 7px;
+    position: absolute;
+    transform: rotate(327deg);} 
+
+    .vin5{
+    width: 55px;
+    height: 1px;
+    background: green;
+    top: 0px;
+    left: 15px;
+    position: absolute;
+    transform: rotate(0deg);
+    } 
+
+    .vin6{
+    width: 55px;
+    height: 1px;
+    background: green;
+    top: 37px;
+    left: 13px;
+    position: absolute;
+    transform: rotate(0deg);
+    }
+
+    /* letter w */
+
+    .w{
+    height: 155px;
+    width: 79px;
+    position: absolute;
+    top: 224px;
+    left: 1099px;
+    }
+
+    .wframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .win{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .w1 {
+     width: 99px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: -42.6px;
+    top: 47px;
+    position: absolute;
+    }
+
+    .w2 {
+    width: 99px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 24px;
+    top: 47px;
+    position: absolute;
+    }
+
+    .w3 {
+    width: 24px;
+    height: 3px;
+    background: green;
+    transform: rotate(123deg);
+    left: 56.4px;
+    top: 104px;
+    position: absolute;
+    }
+
+    .w4 {
+    width: 24px;
+    height: 3px;
+    background: green;
+    transform: rotate(235deg);
+    left: 1px;
+    top: 105px;
+    position: absolute;
+    }
+
+    .w5 {
+    width: 15px;
+    height: 3px;
+    background: green;
+    transform: rotate(0);
+    left: 19px;
+    top: 114px;
+    position: absolute;
+    }
+
+    .w6 {
+    width: 16px;
+    height: 3px;
+    background: green;
+    transform: rotate(290deg);
+    left: 28.4px;
+    top: 106px;
+    position: absolute;
+    }
+
+    .w7 {
+    width: 15px;
+    height: 3px;
+    background: green;
+    transform: rotate(0);
+    left: 46px;
+    top: 114px;
+    position: absolute;
+    }
+
+    .w8 {
+    width: 16px;
+    height: 3px;
+    background: green;
+    transform: rotate(242deg);
+    left: 35.4px;
+    top: 106px;
+    position: absolute;
+    }
+
+    .w9 {
+    width: 72px;
+    height: 3px;
+    background: green;
+    transform: rotate(90deg);
+    left: 3px;
+    top: 69px;
+    position: absolute;
+    }
+
+    .win1{
+    width: 122px;
+    height: 1px;
+    background: green;
+    top: 56px;
+    left: -28px;
+    position: absolute;
+    transform: rotate(248deg);}   
+
+    .win2{
+    width: 121px;
+    height: 1px;
+    background: green;
+    top: 57px;
+    left: -15px;
+    position: absolute;
+    transform: rotate(292deg);} 
+
+    .win3{
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 104px;
+    left: 8px;
+    position: absolute;
+    transform: rotate(200deg);} 
+
+    .win4{
+    width: 50px;
+    height: 1px;
+    background: green;
+    top: 103px;
+    left: 21px;
+    position: absolute;
+    transform: rotate(337deg);} 
+
+    .win5{
+    width: 112px;
+    height: 1px;
+    background: green;
+    top: 48px;
+    left: -16px;
+    position: absolute;
+    transform: rotate(301deg);
+    } 
+
+    .win6{
+    width: 112px;
+    height: 1px;
+    background: green;
+    top: 48px;
+    left: -16px;
+    position: absolute;
+    transform: rotate(417deg);
+    } 
+
+    .win7{
+    width: 66px;
+    height: 1px;
+    background: green;
+    left: 6px;
+    top: 0px;
+    position: absolute;
+    }
+
+    .win8{
+    width: 61px;
+    height: 1px;
+    background: green;
+    left: 10px;
+    top: 95px;
+    position: absolute;
+    } 
+
+    /* letter v */
+
+    .x{
+    height: 155px;
+    width: 79px;
+    position: absolute;
+    top: 208px;
+    left: 1210px;
+    }
+
+    .xframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .xin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .x1 {
+    width: 136px;
+    height: 3px;
+    background: green;
+    transform: rotate(121deg);
+    left: -29.6px;
+    top: 72px;
+    position: absolute;
+    }
+
+    .x2 {
+    width: 136px;
+    height: 3px;
+    background: green;
+    transform: rotate(239deg);
+    left: -29.6px;
+    top: 72px;
+    position: absolute;
+    }
+
+    .xin1{
+    width: 73px;
+    height: 1px;
+    background: green;
+    top: 15px;
+    left: 2px;
+    position: absolute;
+    transform: rotate(0deg);
+    } 
+
+    .xin2{
+    width: 73px;
+    height: 1px;
+    background: green;
+    top: 131px;
+    left: 2px;
+    position: absolute;
+    transform: rotate(0deg);
+    } 
+
+    .xin3{
+    width: 115px;
+    height: 1px;
+    background: green;
+    top: 74px;
+    left: -55px;
+    position: absolute;
+    transform: rotate(90deg);
+    } 
+
+    .xin4{
+    width: 115px;
+    height: 1px;
+    background: green;
+    top: 73px;
+    left: 17px;
+    position: absolute;
+    transform: rotate(90deg);
+    }
+
+    /* letter y */
+
+    .y{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 442px;
+    left: 0px;
+    }
+
+    .yframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 14px;
+    left: 0px;
+    }
+
+    .yin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .y1{
+    width: 20px;
+    height: 3px;
+    background: green;
+    left: -1.8px;
+    top: -1px;
+    position: absolute;
+    transform: rotate(90deg); 
+    }
+
+    .y2{
+    width: 20px;
+    height: 3px;
+    background: green;
+    left: 59.2px;
+    top: -1px;
+    position: absolute;
+    transform: rotate(90deg);  
+    }
+
+    .y3{
+    width: 52px;
+    height: 3px;
+    background: green;
+    left: -2.8px;
+    top: 26px;
+    position: absolute;
+    transform: rotate(52deg);  
+    }
+
+    .y4{
+    width: 52px;
+    height: 3px;
+    background: green;
+    left: 27.2px;
+    top: 28px;
+    position: absolute;
+    transform: rotate(127deg); 
+    }
+
+    .y5{
+    width: 62px;
+    height: 3px;
+    background: green;
+    left: 7.2px;
+    top: 77px;
+    position: absolute;
+    transform: rotate(90deg);  
+    }
+
+    .yin1{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 4px;
+    position: absolute;
+    transform: rotate(0deg);   
+    }
+
+    .yin2{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 23px;
+    position: absolute;
+    transform: rotate(0deg);
+    }
+
+    .yin3{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: -6.8px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(60deg);  
+    }
+
+    .yin4{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: 25.2px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(120deg);
+    }
+
+    .yin5{
+    width: 66px;
+    height: 1px;
+    background: green;
+    left: 20.2px;
+    top: 32px;
+    position: absolute;
+    transform: rotate(118deg); 
+    }
+
+    .yin6{
+    width: 66px;
+    height: 1px;
+    background: green;
+    left: -8.8px;
+    top: 32px;
+    position: absolute;
+    transform: rotate(242deg);
+    }
+
+    .yin7{
+    width: 103px;
+    height: 1px;
+    background: green;
+    left: -29.8px;
+    top: 72px;
+    position: absolute;
+    transform: rotate(253deg);
+    }
+
+    .yin8{
+    width: 103px;
+    height: 1px;
+    background: green;
+    left: 4.2px;
+    top: 72px;
+    position: absolute;
+    transform: rotate(287deg);
+    } 
+
+    /* letter n */
+
+    .z{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 440px;
+    left: 106px;
+    }
+
+    .zframe{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    }
+
+    .zin{
+    height: 125px;
+    width: 79px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    } 
+
+    .z1{
+    width: 11px;
+    height: 3px;
+    background: green;
+    left: 6.2px;
+    top: 115px;
+    position: absolute;
+    transform: rotate(90deg);  
+    }
+
+    .z2{
+    width: 16px;
+    height: 3px;
+    background: green;
+    left: 61.2px;
+    top: 10px;
+    position: absolute;
+    transform: rotate(90deg);  
+    }
+
+    .z3{
+    width: 111px;
+    height: 3px;
+    background: green;
+    left: -14.8px;
+    top: 63px;
+    position: absolute;
+    transform: rotate(121deg);
+    }
+
+    .z4{
+    width: 65px;
+    height: 3px;
+    background: green;
+    left: 5.2px;
+    top: 3px;
+    position: absolute;
+    transform: rotate(0deg); 
+    }
+
+    .z5{
+    width: 60px;
+    height: 3px;
+    background: green;
+    left: 9.2px;
+    top: 120px;
+    position: absolute;
+    transform: rotate(0deg)
+    }
+
+    .zin1{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 4px;
+    position: absolute;
+    transform: rotate(0deg);   
+    }
+
+    .zin2{
+    width: 62px;
+    height: 1px;
+    background: green;
+    left: 9.2px;
+    top: 121px;
+    position: absolute;
+    transform: rotate(0deg);
+    }
+
+    .zin3{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: -6.8px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(60deg);  
+    }
+
+    .zin4{
+    width: 59px;
+    height: 1px;
+    background: green;
+    left: 25.2px;
+    top: 33px;
+    position: absolute;
+    transform: rotate(120deg);
+    }
+
+    .zin5{
+    width: 130px;
+    height: 1px;
+    background: green;
+    left: -26.8px;
+    top: 65px;
+    position: absolute;
+    transform: rotate(118deg); 
+    }
+
+    .zin6{
+    width: 130px;
+    height: 1px;
+    background: green;
+    left: -26.8px;
+    top: 65px;
+    position: absolute;
+    transform: rotate(241deg);
+    }
+
+    .zin7{
+    width: 70px;
+    height: 1px;
+    background: green;
+    left: -12.8px;
+    top: 89px;
+    position: absolute;
+    transform: rotate(115deg);
+    }
+
+    .zin8{
+    width: 70px;
+    height: 1px;
+    background: green;
+    left: 19.2px;
+    top: 89px;
+    position: absolute;
+    transform: rotate(65deg);
+    }
