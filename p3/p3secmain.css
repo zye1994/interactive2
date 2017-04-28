@@ -1,0 +1,1854 @@
+  body{
+	font-family: 'Source Sans Pro', 
+	sans-serif; 
+	color: black;
+    height:950px;
+    width:auto;
+    margin: 0px;
+    background-color:white;
+    position: fixed;
+    }
+
+    /*1strow*/
+
+    .text{
+    top: 7px;
+    left: 57px;
+    width: 395px;
+    height: 30px;
+    position: fixed;
+    }
+
+    .text2{
+     top: 70px;
+    left: 56px;
+    width: 331px;
+    height: 30px;
+    position: fixed;
+
+    }
+    
+    .blank
+    {    
+    height: 425px;
+    width: 551px;
+    position: fixed;
+    background-color: white;
+    left: 521px;
+    top: 263px;
+    border: 4px solid black;
+    transform: scale(0.5);
+    }
+
+
+/* video { 
+    margin: 0px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+ background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
+  background-size: cover;
+  transition: 1s opacity;
+
+}*/
+
+
+
+
+.c1{width: 200px;
+    height: 150px;
+    background-image: url(1c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 183px;
+    top: 118px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c1:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(1.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 183px;
+    top: 118px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c2{    width: 200px;
+    height: 150px;
+    background-image: url(2c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 44px;
+    top: 162px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c2:hover 
+    {    width: 200px;
+    height: 150px;
+    background-image: url(2.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 44px;
+    top: 162px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+ .c3{ width: 200px;
+    height: 150px;
+    background-image: url(3c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: -67px;
+    top: 126px;
+    position: fixed;
+    transform: scale(1);
+
+    }
+
+.c3:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(3.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: -67px;
+    top: 126px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+
+.c4{ width: 200px;
+    height: 150px;
+    background-image: url(4c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: -55px;
+    top: 320px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c4:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(4.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: -55px;
+    top: 320px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c5{ width: 200px;
+    height: 150px;
+    background-image: url(5c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 459px;
+    top: 284px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c5:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(5.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 459px;
+    top: 284px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+
+    .c6{ width: 200px;
+    height: 150px;
+    background-image: url(6c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+left: 70px;
+    top: 300px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c6:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(6.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+ left: 70px;
+    top: 300px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+
+    .c7{ width: 200px;
+    height: 150px;
+    background-image: url(7c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 44px;
+    top: 463px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c7:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(7.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+     left: 44px;
+    top: 463px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+        .c8{ width: 200px;
+    height: 150px;
+    background-image: url(8c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 185px;
+    top: 490px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c8:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(8.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 185px;
+    top: 490px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+
+    .c9{ width: 200px;
+    height: 150px;
+    background-image: url(9c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 305px;
+    top: 661px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+.c9:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(9.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 305px;
+    top: 661px;;
+    position: absolute;
+    transform: scale(1);
+    }
+
+
+    .c10{ width: 200px;
+    height: 150px;
+    background-image: url(10c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 124px;
+    top: 655px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c10:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(10.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 124px;
+    top: 655px;;
+    position: absolute;
+    transform: scale(1);
+    }
+
+
+    .c11{ width: 200px;
+    height: 150px;
+    background-image: url(11c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 67px;
+    top: 653px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c11:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(11.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 67px;
+    top: 653px;;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c12{ width: 200px;
+    height: 150px;
+    background-image: url(12c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 286px;
+    top: 313px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c12:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(12.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 286px;
+    top: 313px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c13{ width: 200px;
+    height: 150px;
+    background-image: url(13c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: -60px;
+    top: 799px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c13:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(13.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: -60px;
+    top: 799px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c14{ width: 200px;
+    height: 150px;
+    background-image: url(14c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 460px;
+    top: 144px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c14:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(14.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 460px;
+    top: 144px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c15{ width: 200px;
+    height: 150px;
+    background-image: url(15c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 71px;
+    top: 821px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c15:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(15.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 71px;
+    top: 821px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c16{ width: 200px;
+    height: 150px;
+    background-image: url(16c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 422px;
+    top: 510px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c16:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(16.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 422px;
+    top: 510px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c17{ width: 200px;
+    height: 150px;
+    background-image: url(17c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+     left: 296px;
+    top: 810px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c17:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(17.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 296px;
+    top: 810px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c18{ width: 200px;
+    height: 150px;
+    background-image: url(18c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 350px;
+    top: 790px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c18:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(18.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 350px;
+    top: 790px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c19{ width: 200px;
+    height: 150px;
+    background-image: url(19c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 390px;
+    top: 670px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c19:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(19.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 390px;
+    top: 670px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c20{ width: 200px;
+    height: 150px;
+    background-image: url(20c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 578px;
+    top: 158px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c20:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(20.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 578px;
+    top: 158px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c21{ width: 200px;
+    height: 150px;
+    background-image: url(21c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 410px;
+    top: 0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c21:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(21.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 410px;
+    top: 0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c22{ width: 200px;
+    height: 150px;
+    background-image: url(22c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 590px;
+    top: 0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c22:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(22.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 590px;
+    top: 0px;
+    position: absolute;
+    transform: scale(1);
+    }    
+
+    .c23{ width: 200px;
+    height: 150px;
+    background-image: url(23c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 644px;
+    top: 672px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c23:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(23.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 644px;
+    top: 672px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c24{ width: 200px;
+    height: 150px;
+    background-image: url(24c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 826px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c24:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(24.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 826px;
+    top: 0px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+    .c25{ width: 200px;
+    height: 150px;
+    background-image: url(25c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 986px;
+    top: 50px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c25:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(25.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 986px;
+    top: 50px;
+    position: absolute;
+    transform: scale(1);
+    } 
+
+    .c26{ width: 200px;
+    height: 150px;
+    background-image: url(26c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 637px;
+    top: 722px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c26:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(26.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 637px;
+    top: 722px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c27{ width: 200px;
+    height: 150px;
+    background-image: url(27c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 723px;
+    top: 159px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c27:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(27.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 723px;
+    top: 159px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c28{ width: 200px;
+    height: 150px;
+    background-image: url(28c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 854px;
+    top: 148px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c28:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(28.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 854px;
+    top: 148px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+    .c29{ width: 200px;
+    height: 150px;
+    background-image: url(29c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 830px;
+    top: 673px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c29:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(29.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 830px;
+    top: 673px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+    .c30{ width: 200px;
+    height: 150px;
+    background-image: url(30c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 868px;
+    top: 353px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c30:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(30.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 868px;
+    top: 353px;
+    position: absolute;
+    transform: scale(1);
+    }     
+
+    .c31{ width: 200px;
+    height: 150px;
+    background-image: url(31c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 995px;
+    top: 723px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c31:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(31.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 995px;
+    top: 723px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+     .c32{ width: 200px;
+    height: 150px;
+    background-image: url(32c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 810px;
+    top: 717px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c32:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(32.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 810px;
+    top: 717px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c33{ width: 200px;
+    height: 150px;
+    background-image: url(33c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 981px;
+    top: 462px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c33:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(33.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 981px;
+    top: 462px;
+    position: absolute;
+    transform: scale(1);
+    } 
+
+    .c34{ width: 200px;
+    height: 150px;
+    background-image: url(34c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1041px;
+    top: 667px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c34:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(34.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1041px;
+    top: 667px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c35{ width: 200px;
+    height: 150px;
+    background-image: url(35c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 883px;
+    top: 772px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c35:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(35.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 883px;
+    top: 772px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c36{ width: 200px;
+    height: 150px;
+    background-image: url(36c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1007px;
+    top: 117px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c36:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(36.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1007px;
+    top: 117px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c37{ width: 200px;
+    height: 150px;
+    background-image: url(37c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1111px;
+    top: -14px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c37:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(37.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1111px;
+    top: -14px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+
+   .c38{ width: 200px;
+    height: 150px;
+    background-image: url(38c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1024px;
+    top: 372px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c38:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(38.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1024px;
+    top: 372px;
+    position: absolute;
+    transform: scale(1);
+    }    
+
+   .c39{ width: 200px;
+    height: 150px;
+    background-image: url(39c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1029px;
+    top: 477px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c39:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(39.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1029px;
+    top: 477px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+   .c40{ width: 200px;
+    height: 150px;
+    background-image: url(40c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1457px;
+    top: 451px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c40:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(40.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1457px;
+    top: 451px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c41{ width: 200px;
+    height: 150px;
+    background-image: url(41c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1292px;
+    top: 482px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c41:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(41.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1292px;
+    top: 482px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+     .c42{ width: 200px;
+    height: 150px;
+    background-image: url(42c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1292px;
+    top: 300px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c42:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(42.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1292px;
+    top: 300px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c43{ width: 200px;
+    height: 150px;
+    background-image: url(43c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1252px;
+    top: 163px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c43:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(43.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1252px;
+    top: 163px;
+    position: absolute;
+    transform: scale(1);
+    } 
+
+    .c44{ width: 200px;
+    height: 150px;
+    background-image: url(44c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1265px;
+    top: 18px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c44:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(44.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1265px;
+    top: 18px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c45{ width: 200px;
+    height: 150px;
+    background-image: url(45c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1280px;
+    top: 663px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c45:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(45.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1280px;
+    top: 663px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c46{ width: 200px;
+    height: 150px;
+    background-image: url(46c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1480px;
+    top: 782px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c46:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(46.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1480px;
+    top: 782px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c47{ width: 200px;
+    height: 150px;
+    background-image: url(47c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1056px;
+    top: 847px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c47:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(47.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1056px;
+    top: 847px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+
+   .c48{ width: 200px;
+    height: 150px;
+    background-image: url(48c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1401px;
+    top: 680px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c48:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(48.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1401px;
+    top: 680px;
+    position: absolute;
+    transform: scale(1);
+    }    
+
+   .c49{ width: 200px;
+    height: 150px;
+    background-image: url(49c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1414px;
+    top: 35px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c49:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(49.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1414px;
+    top: 35px;;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+   .c50{ width: 200px;
+    height: 150px;
+    background-image: url(50c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1506px;
+    top: 344px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c50:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(50.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1506px;
+    top: 344px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c51{ width: 200px;
+    height: 150px;
+    background-image: url(51c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1495px;
+    top: 189px;   
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c51:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(51.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1495px;
+    top: 189px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+     .c52{ width: 200px;
+    height: 150px;
+    background-image: url(52c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1194px;
+    top: 761px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c52:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(52.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 1194px;
+    top: 761px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c53{ width: 200px;
+    height: 150px;
+    background-image: url(53c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c53:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(53.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    } 
+
+    .c54{ width: 200px;
+    height: 150px;
+    background-image: url(54c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c54:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(54.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c55{ width: 200px;
+    height: 150px;
+    background-image: url(55c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c55:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(55.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c56{ width: 200px;
+    height: 150px;
+    background-image: url(56c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c56:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(56.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c57{ width: 200px;
+    height: 150px;
+    background-image: url(57c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c57:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(57.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+
+   .c58{ width: 200px;
+    height: 150px;
+    background-image: url(58c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c58:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(58.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }    
+
+   .c59{ width: 200px;
+    height: 150px;
+    background-image: url(59c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c59:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(59.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+   .c60{ width: 200px;
+    height: 150px;
+    background-image: url(60c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c60:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(60.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c61{ width: 200px;
+    height: 150px;
+    background-image: url(61c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c61:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(61.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }   
+
+     .c62{ width: 200px;
+    height: 150px;
+    background-image: url(62c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c62:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(62.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c63{ width: 200px;
+    height: 150px;
+    background-image: url(63c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c63:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(63.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    } 
+
+    .c64{ width: 200px;
+    height: 150px;
+    background-image: url(64c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c64:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(64.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c65{ width: 200px;
+    height: 150px;
+    background-image: url(65c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c65:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(65.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c66{ width: 200px;
+    height: 150px;
+    background-image: url(66c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c66:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(66.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+    .c67{ width: 200px;
+    height: 150px;
+    background-image: url(67c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c67:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(67.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+
+   .c68{ width: 200px;
+    height: 150px;
+    background-image: url(68c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c68:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(68.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }    
+
+   .c69{ width: 200px;
+    height: 150px;
+    background-image: url(69c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c69:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(69.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+   .c70{ width: 200px;
+    height: 150px;
+    background-image: url(70c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c70:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(70.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+
+   .c71{ width: 200px;
+    height: 150px;
+    background-image: url(71c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c71:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(71.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    } 
+
+   .c72{ width: 200px;
+    height: 150px;
+    background-image: url(72c.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    top:0px;
+    position: absolute;
+    transform: scale(1);
+    }
+
+    .c72:hover 
+    {width: 200px;
+    height: 150px;
+    background-image: url(72.png);
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    left: 0px;
+    position: absolute;
+    transform: scale(1);
+    }  
+

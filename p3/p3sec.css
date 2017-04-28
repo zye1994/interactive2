@@ -1,0 +1,21 @@
+  body{
+	font-family: 'Source Sans Pro', 
+	sans-serif; 
+	color: black;
+    height:auto;
+    width:auto;
+    margin: 0px;
+    }
+
+    /*1strow*/
+    
+    .blankj
+    {height: 952px;
+    width:1680px;
+    position: absolute;
+    background-image: url(blank.jpg);}
+
+
+
+
+
