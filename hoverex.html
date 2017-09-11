@@ -1,0 +1,64 @@
+
+<html>
+<head>
+  <title>:hover (states)</title>
+  <link rel="stylesheet" type="text/css" href="css/dribble.css">
+</head>
+
+<style type="text/css">
+
+p {
+
+  font-size: 48pt;
+}
+  
+.ball{
+  position: absolute;
+  left: 480px;
+  top: 315px;
+  animation: bounce 0.6s infinite;
+}
+
+.ball:hover{
+  /*animation: bounce 0.5s ;*/
+   animation-play-state: paused;
+   cursor: pointer;
+   transform: scale(2,2);
+}
+
+.ppl{
+      position: absolute;
+    left: 680px;
+    top: 301px;
+    transform: scale(3);
+  
+}
+
+
+@keyframes bounce {
+  0%{
+    transform: translate(0px,-20px);
+  }
+  50%{
+    transform: translate(0px,240px);
+  }
+  100%{
+    transform: translate(0px,-20px);
+  }
+  /*100% {
+    -webkit-transform: translate3d(0,250px,0);
+    transform: translate3d(0,250px,0);
+  }*/
+}
+
+</style>
+<body>
+
+<img class="ppl" src="ppl.png" alt="ppl">
+
+<div class="ball">
+  <img src="ball.jpg" alt="basketball" style="width:132px;height:125px;">
+</div>
+
+</body>
+</html>

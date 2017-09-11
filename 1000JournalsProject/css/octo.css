@@ -48,6 +48,7 @@ width: 605px;
 
 #tittlebox:hover .bodytext{ 
     display: block;
+    transition-delay: 30s;
 }
 
 
